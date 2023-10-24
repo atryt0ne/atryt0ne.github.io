@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: code
+  name: code
 
-- slug: tools
-  name: Tools
+- slug: misc
+  name: misc
 
-- slug: productivity
-  name: Productivity
+- slug: writings
+  name: writings
