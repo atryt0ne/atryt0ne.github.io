@@ -5,8 +5,9 @@ date:   2020-03-26 00:00:00
 categories: [writing]
 ---
 
-> This was submitted to Reedsy's Weekly Writing Contest #34 "Staying Inside", in response to the prompt: "Write a story from the perspective of a dog, thrilled to find their owner has been spending so much time at home."
-> You can read the entry on the original site [here](https://blog.reedsy.com/short-story/zp8nu2/)
+_This was submitted to Reedsy's Weekly Writing Contest #34 "Staying Inside", in response to the prompt: "Write a story from the perspective of a dog, thrilled to find their owner has been spending so much time at home."_
+
+_You can read the entry on the original site [here](https://blog.reedsy.com/short-story/zp8nu2/)_
 
 ***
 “Joshua! It’s time for your meal!”

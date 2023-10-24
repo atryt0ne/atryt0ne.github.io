@@ -5,8 +5,9 @@ date:   2020-01-31 00:00:00
 categories: [writing]
 ---
 
-> This was submitted to Reedsy's Weekly Writing Contest #26 "Musical Genius", in response to the prompt: "Write a story about a musician struggling to find work during wartime."
-> You can read the entry on the original site [here](https://blog.reedsy.com/short-story/zxs655/)
+_This was submitted to Reedsy's Weekly Writing Contest #26 "Musical Genius", in response to the prompt: "Write a story about a musician struggling to find work during wartime."_
+
+_You can read the entry on the original site [here](https://blog.reedsy.com/short-story/zxs655/)_
 
 ***
 Apollo’s chariot ride was coming to an end. As he slowed down for one long last look at the sky, he lit the sky up with lustrous shades of gold and red. It was a sight to witness, certainly. Yet, the throngs of people below in the town weren’t interested. Not a single soul looked at his magnificent chariot, although just one look could have calmed down the anxiety of their dying men, fighting a useless war on their insignificant battlefield. Insignificant, even for mortal standards. Nevertheless wartime it was, and all humans lose their perception of art and beauty in such times. A flaw, which Apollo could attribute to the fact that they were mortal. Bound to die, yet afraid of it, and hence anxious to save their delicate life for as long as they could.

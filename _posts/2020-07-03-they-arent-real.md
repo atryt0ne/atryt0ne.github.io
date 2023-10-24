@@ -5,8 +5,9 @@ date:   2020-07-03 00:00:00
 categories: [writing]
 ---
 
-> This was submitted to Reedsy's Weekly Writing Contest #48 "Superpower", in response to the prompt: "Write about someone who has a superpower."
-> You can read the entry on the original site [here](https://blog.reedsy.com/short-story/ecjtgq/)
+_This was submitted to Reedsy's Weekly Writing Contest #48 "Superpower", in response to the prompt: "Write about someone who has a superpower."_
+
+_You can read the entry on the original site [here](https://blog.reedsy.com/short-story/ecjtgq/)_
 
 ***
 Every night, a solitary fear keeps me from falling asleep. I have no known phobias, and yet I will never be able to shake off the feeling that there are secret agents hiding in my walls, maybe next door, or under my bed, and once I fall asleep, they’ll catch me, and it will be game over.
