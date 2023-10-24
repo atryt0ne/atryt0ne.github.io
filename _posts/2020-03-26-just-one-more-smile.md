@@ -2,7 +2,7 @@
 layout: post
 title:  "Just One More Smile"
 date:   2020-03-26 00:00:00
-categories: [writings]
+categories: [writing]
 ---
 
 > This was submitted to Reedsy's Weekly Writing Contest #34 "Staying Inside", in response to the prompt: "Write a story from the perspective of a dog, thrilled to find their owner has been spending so much time at home."

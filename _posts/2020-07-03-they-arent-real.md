@@ -2,7 +2,7 @@
 layout: post
 title:  "They Aren't Real"
 date:   2020-07-03 00:00:00
-categories: [writings]
+categories: [writing]
 ---
 
 > This was submitted to Reedsy's Weekly Writing Contest #48 "Superpower", in response to the prompt: "Write about someone who has a superpower."

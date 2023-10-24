@@ -2,7 +2,7 @@
 layout: post
 title:  "Apollo's Unsung Love"
 date:   2020-01-31 00:00:00
-categories: [writings]
+categories: [writing]
 ---
 
 > This was submitted to Reedsy's Weekly Writing Contest #26 "Musical Genius", in response to the prompt: "Write a story about a musician struggling to find work during wartime."
