@@ -16,7 +16,7 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 17px;
     line-height: 32px;
 }
 
@@ -30,7 +30,7 @@ blockquote {
     letter-spacing: 3px;
     margin:0px;
     margin-top: 40px;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     padding: 0px;
     text-align: center;
     position: relative;
@@ -77,8 +77,9 @@ strong {
 }
 
 .logo {
-    font-size: 50px;
-    font-weight: 700;
+    margin: 24px 0px;
+    font-size: 24px;
+    font-weight: 800;
     color: $iron;
     display: block;
 }
@@ -125,7 +126,7 @@ strong {
 }
 
 .page-title__text {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 70px;
 }
 
@@ -155,17 +156,17 @@ strong {
 }
 
 .post-teaser {
-    margin-bottom: 45px;
-    font-weight: 700;
+    margin-bottom: 12px;
+    font-weight: 400;
 }
 
 .post-teaser__title {
-    font-size: 22px;
+    font-size: 16px;
     color: $iron;
 }
 
 .post-teaser__date {
-    font-size: 16px;
+    font-size: 14px;
     float: right;
     vertical-align: middle;
     color: $cloudy;
@@ -173,7 +174,7 @@ strong {
 
 .empty-post-list {
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 400;
     color: $iron;
     text-align: center;
 }
@@ -203,8 +204,8 @@ strong {
 
 .categories__item {
     display: inline-block;
-    font-weight: 700;
-    font-size: 18px;
+    font-weight: 400;
+    font-size: 12px;
 }
 
 .categories__item a {
