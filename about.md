@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: /atrytone
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# About this blog
+  Hey! I'm Aniruddh Pramod. And this is my little corner on the internet. I do some ML stuff. It's pretty fun sometimes.
+  I don't really do maintenance, so don't expect frequent updates here.
+  Random stuff will probably end up here. Projects I work on? Things I find interesting? Shitty poetry? Not so shitty stories? All here.
+  Poke around if you like.

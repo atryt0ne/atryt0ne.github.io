@@ -1,9 +1,9 @@
 # Site settings
-title: /atrytone/logs
+title: /atrytone
 description: >
   Hey! This is Aniruddh's little corner on the internet. I don't really do maintenance, so don't expect frequent updates here.
   Random stuff will probably end up here. Projects I work on? Things I find interesting? Shitty poetry? Not so shitty stories? All here.
-  Poke around if you like
+  Poke around if you like.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://atryt0ne.github.io" # the base hostname & protocol for your site
@@ -13,7 +13,7 @@ author:
   # googleplus: https://www.google.com/+MotaquillahMaddane
   github: atryt0ne
   instagram: aniruddh.pramod
-  
+  linkedin: aniruddh-pramod-a83a8a23b
   twitter: AniruddhPramod
   # disqus: your_disqus_forum_shortname
 
